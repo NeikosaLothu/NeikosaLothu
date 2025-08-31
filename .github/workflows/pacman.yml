@@ -22,7 +22,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          theme_name: dracula # <--- ADD THIS LINE
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
