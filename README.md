@@ -44,9 +44,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NeikosaLothu/NeikosaLothu/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
-</div>
-
-###
